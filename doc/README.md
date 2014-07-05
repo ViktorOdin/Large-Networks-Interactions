@@ -30,8 +30,7 @@ which indicate that there is a link between nodes n1 and n2.
 
 Example:
 For this graph :  
-<img src="graph.png" alt="graph"  height="359" width="352">
-![graph](graph.png =352x359)  
+<img src="graph.png" alt="graph"  height="359" width="352" align="middle">  
 The data file is :  
 [graph.data](graph.data)  
 
