@@ -30,10 +30,11 @@ which indicate that there is a link between nodes n1 and n2.
 
 Example:
 For this graph :  
-![graph](graph.png)  
+![graph](graph.png =352x359)  
 The data file is :  
-[graph](graph.data)  
+[graph.data](graph.data)  
 
+<!--
 ## Stockage en mémoire
 Deux façons principales de stocker un graphe en mémoire :
 – matrice d’adjacence
@@ -63,6 +64,6 @@ au-dessus de la moyenne.
 Dans les graphes issus de contextes réels, la distribution des degrés est la
 plupart du temps hétérogène
 −→ le degré moyen n’est pas représentatif.  
-
+-->
 
 
